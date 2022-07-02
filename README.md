@@ -4,7 +4,7 @@
 
 ## Links
 
-- [Repo](https://github.com/Blxckmage/sculptor "Sculptor Repo") https://github.com/Blxckmage/sculptor
+- [Repo](https://github.com/Blxckmage/sculptor "Sculptor Repo")
 
 - [Live](https://blxckmage.github.io/sculptor/ "Live View")
 
